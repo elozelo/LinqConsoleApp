@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sala213\\source\\repos\\LinqConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0553B365-4703-4788-AA83-1C5BB50F0825}|LinqConsoleApp\\LinqConsoleApp.csproj|c:\\users\\sala213\\source\\repos\\linqconsoleapp\\linqconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0553B365-4703-4788-AA83-1C5BB50F0825}|LinqConsoleApp\\LinqConsoleApp.csproj|solutionrelative:linqconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0553B365-4703-4788-AA83-1C5BB50F0825}|LinqConsoleApp\\LinqConsoleApp.csproj|c:\\users\\sala213\\source\\repos\\linqconsoleapp\\linqconsoleapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0553B365-4703-4788-AA83-1C5BB50F0825}|LinqConsoleApp\\LinqConsoleApp.csproj|solutionrelative:linqconsoleapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Sala213\\source\\repos\\LinqConsoleApp\\LinqConsoleApp\\Person.cs",
+              "RelativeDocumentMoniker": "LinqConsoleApp\\Person.cs",
+              "ToolTip": "C:\\Users\\Sala213\\source\\repos\\LinqConsoleApp\\LinqConsoleApp\\Person.cs",
+              "RelativeToolTip": "LinqConsoleApp\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:18:39.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sala213\\source\\repos\\LinqConsoleApp\\LinqConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "LinqConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Sala213\\source\\repos\\LinqConsoleApp\\LinqConsoleApp\\Program.cs",
+              "RelativeToolTip": "LinqConsoleApp\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:17:14.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
